@@ -1,0 +1,5 @@
+print("Hello World.....")
+print("This is Day 1 of Python Programming")
+print("Let's start coding!")
+print("Welcome to the world of Python!")
+print("Happy coding!")
